@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = julian.negele@googlemail.com
+	name = Julian Negele
